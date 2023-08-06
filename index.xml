@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nonsingular</title>
+    <link>https://www.nonsingular.net/</link>
+    <description>Recent content on nonsingular</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:49:13 +0000</lastBuildDate><atom:link href="https://www.nonsingular.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello</title>
+      <link>https://www.nonsingular.net/post/hello/</link>
+      <pubDate>Sun, 06 Aug 2023 00:49:13 +0000</pubDate>
+      
+      <guid>https://www.nonsingular.net/post/hello/</guid>
+      <description>Hello, again Having ignored this site since 2016, I thought I would try to pay more attention to it now.</description>
+    </item>
+    
+  </channel>
+</rss>
